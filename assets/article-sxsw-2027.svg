@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+<rect width="1280" height="720" fill="#071b16"/>
+<g fill="none" stroke="#c9a55b" stroke-width="2" opacity=".72">
+<path d="M-20 585 C220 450 340 650 610 500 S1020 320 1320 460"/>
+<path d="M-20 635 C250 505 400 700 720 520 S1080 380 1320 510" opacity=".45"/>
+<circle cx="1015" cy="310" r="150"/><circle cx="1015" cy="310" r="92" opacity=".55"/>
+</g>
+<g transform="translate(1015 310)"><path d="M0-155 L30-30 L155 0 L30 30 L0 155 L-30 30 L-155 0 L-30-30Z" fill="#0c4739" stroke="#d0ad60" stroke-width="3"/><circle r="9" fill="#d0ad60"/></g>
+<text x="90" y="110" fill="#d0ad60" font-family="Arial, sans-serif" font-size="22" letter-spacing="5">FUTURE OF CULTURE · BUSINESS · TECHNOLOGY</text>
+<text x="90" y="220" fill="#f4efe4" font-family="Georgia, serif" font-size="86" font-weight="600">SXSW 2027</text>
+<text x="90" y="302" fill="#f4efe4" font-family="Georgia, serif" font-size="52">o que realmente vale observar</text>
+<text x="90" y="390" fill="#aeb9ae" font-family="Arial, sans-serif" font-size="26">Criatividade humana · creator economy · Tech &amp; AI</text>
+<text x="90" y="430" fill="#aeb9ae" font-family="Arial, sans-serif" font-size="26">marcas · convergência · novos formatos</text>
+<rect x="90" y="510" width="380" height="2" fill="#c9a55b"/>
+<text x="90" y="565" fill="#d0ad60" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">LIPE TRAVEL HUB · INSIGHTS &amp; INTELLIGENCE</text>
+</svg>

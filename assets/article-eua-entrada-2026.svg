@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+<rect width="1280" height="720" fill="#f3ede2"/>
+<path d="M0 140 C250 20 430 180 700 90 S1080 20 1280 120" fill="none" stroke="#c29d4f" stroke-width="2" opacity=".55"/>
+<path d="M0 610 C280 490 510 670 800 540 S1080 455 1280 520" fill="none" stroke="#c29d4f" stroke-width="2" opacity=".35"/>
+<g transform="translate(1025 360)">
+  <rect x="-150" y="-190" width="300" height="380" rx="18" fill="#09261f" stroke="#c29d4f" stroke-width="3"/>
+  <rect x="-110" y="-145" width="220" height="18" fill="#d0ad60" opacity=".9"/>
+  <circle cx="0" cy="-45" r="72" fill="none" stroke="#d0ad60" stroke-width="4"/>
+  <path d="M-72-45 H72 M0-117 C-35-80-35-10 0 27 C35-10 35-80 0-117 M0-117 V27" fill="none" stroke="#d0ad60" stroke-width="3" opacity=".9"/>
+  <path d="M-92 80 H92 M-92 116 H65" stroke="#f3ede2" stroke-width="10" stroke-linecap="round" opacity=".72"/>
+</g>
+<g transform="translate(810 370)" fill="none" stroke="#977532" stroke-width="3" opacity=".7">
+  <path d="M0 0 H120"/><path d="M100-18 L120 0 L100 18"/>
+</g>
+<text x="90" y="120" fill="#977532" font-family="Arial, sans-serif" font-size="21" letter-spacing="5">US TRAVEL · VISAS · BORDER EXPERIENCE</text>
+<text x="90" y="235" fill="#09261f" font-family="Georgia, serif" font-size="70" font-weight="600">Viajar para os EUA</text>
+<text x="90" y="315" fill="#09261f" font-family="Georgia, serif" font-size="48">ficou mais digital —</text>
+<text x="90" y="380" fill="#09261f" font-family="Georgia, serif" font-size="48">e mais seletivo</text>
+<text x="90" y="458" fill="#56655d" font-family="Arial, sans-serif" font-size="25">O que mudou para brasileiros em 2026</text>
+<text x="90" y="494" fill="#56655d" font-family="Arial, sans-serif" font-size="25">e o que vale observar rumo a 2027.</text>
+<rect x="90" y="555" width="430" height="2" fill="#c29d4f"/>
+<text x="90" y="610" fill="#977532" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">LIPE TRAVEL HUB · INSIGHTS &amp; INTELLIGENCE</text>
+</svg>

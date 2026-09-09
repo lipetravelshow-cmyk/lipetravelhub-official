@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+<rect width="1280" height="720" fill="#09261f"/>
+<g fill="none" stroke="#c29d4f" opacity=".25"><path d="M0 560 C260 520 420 590 650 470 S1030 260 1280 220"/><path d="M0 610 C290 580 470 640 720 515 S1080 310 1280 275"/></g>
+<g transform="translate(875 365)">
+  <line x1="-250" y1="120" x2="260" y2="-130" stroke="#d0ad60" stroke-width="3" opacity=".65"/>
+  <line x1="-250" y1="0" x2="260" y2="0" stroke="#f3ede2" stroke-width="2" opacity=".22" stroke-dasharray="8 10"/>
+  <g fill="#f3ede2" opacity=".72"><circle cx="-220" cy="105" r="10"/><circle cx="-165" cy="90" r="10"/><circle cx="-112" cy="76" r="10"/><circle cx="-58" cy="58" r="10"/><circle cx="-8" cy="37" r="10"/></g>
+  <circle cx="48" cy="8" r="18" fill="#d0ad60"/><circle cx="105" cy="-22" r="12" fill="#f3ede2"/><circle cx="165" cy="-62" r="12" fill="#f3ede2"/><circle cx="220" cy="-106" r="12" fill="#f3ede2"/>
+  <circle cx="48" cy="8" r="46" fill="none" stroke="#d0ad60" stroke-width="2" opacity=".5"/>
+</g>
+<text x="90" y="120" fill="#d0ad60" font-family="Arial, sans-serif" font-size="21" letter-spacing="5">CREATIVITY · INNOVATION · MARKET SIGNALS</text>
+<text x="90" y="250" fill="#f3ede2" font-family="Georgia, serif" font-size="82" font-weight="600">Tipping points</text>
+<text x="90" y="330" fill="#f3ede2" font-family="Georgia, serif" font-size="43">quando pequenas mudanças</text>
+<text x="90" y="390" fill="#f3ede2" font-family="Georgia, serif" font-size="43">viram uma nova curva</text>
+<text x="90" y="474" fill="#b9c2bc" font-family="Arial, sans-serif" font-size="25">Mercados criativos raramente mudam em linha reta.</text>
+<text x="90" y="510" fill="#b9c2bc" font-family="Arial, sans-serif" font-size="25">O desafio é reconhecer o ponto em que sinais passam a se reforçar.</text>
+<rect x="90" y="575" width="430" height="2" fill="#c29d4f"/>
+<text x="90" y="630" fill="#d0ad60" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">LIPE TRAVEL HUB · INSIGHTS &amp; INTELLIGENCE</text>
+</svg>

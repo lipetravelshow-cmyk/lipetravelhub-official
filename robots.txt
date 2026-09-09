@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lipetravelhub.com.br/sitemap.xml

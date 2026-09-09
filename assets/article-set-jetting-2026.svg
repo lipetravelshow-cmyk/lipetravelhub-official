@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+<rect width="1280" height="720" fill="#f3ede2"/>
+<g fill="none" stroke="#c29d4f" stroke-width="2" opacity=".75">
+<path d="M0 150 C240 40 400 190 630 105 S1040 20 1280 130"/>
+<path d="M0 610 C250 505 450 665 720 555 S1080 450 1280 545" opacity=".5"/>
+</g>
+<g transform="translate(1020 350)">
+<rect x="-185" y="-130" width="370" height="260" rx="8" fill="#09261f" stroke="#c29d4f" stroke-width="3"/>
+<rect x="-145" y="-90" width="290" height="180" fill="#0d4a3b"/>
+<path d="M-40-65 L90 0 L-40 65Z" fill="#d0ad60"/>
+<g fill="#c29d4f"><rect x="-220" y="-92" width="20" height="28"/><rect x="-220" y="-42" width="20" height="28"/><rect x="-220" y="8" width="20" height="28"/><rect x="-220" y="58" width="20" height="28"/><rect x="200" y="-92" width="20" height="28"/><rect x="200" y="-42" width="20" height="28"/><rect x="200" y="8" width="20" height="28"/><rect x="200" y="58" width="20" height="28"/></g>
+</g>
+<text x="90" y="120" fill="#977532" font-family="Arial, sans-serif" font-size="21" letter-spacing="5">CULTURE &amp; TRAVEL DEMAND</text>
+<text x="90" y="245" fill="#09261f" font-family="Georgia, serif" font-size="86" font-weight="600">Set-jetting</text>
+<text x="90" y="325" fill="#09261f" font-family="Georgia, serif" font-size="48">quando a tela vira rota</text>
+<text x="90" y="414" fill="#56655d" font-family="Arial, sans-serif" font-size="26">Filmes e séries já não inspiram apenas viagens.</text>
+<text x="90" y="453" fill="#56655d" font-family="Arial, sans-serif" font-size="26">Eles deslocam demanda e criam ativos de destino.</text>
+<rect x="90" y="530" width="380" height="2" fill="#c29d4f"/>
+<text x="90" y="585" fill="#977532" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">LIPE TRAVEL HUB · INSIGHTS &amp; INTELLIGENCE</text>
+</svg>
