@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+ width="1000" height="1250" viewBox="0 0 1000 1250">
+
+<rect width="1000" height="1250" fill="#1a241a"/>
+
+<!-- EYEBROW -->
+<text x="70" y="78"
+ fill="#d4c39c"
+ font-family="DM Sans,Arial,sans-serif"
+ font-size="24"
+ letter-spacing="3">
+ESSENTIAL INTELLIGENCE · CHINA
+</text>
+
+<line x1="70" y1="112" x2="410" y2="112"
+ stroke="#d4c39c" stroke-width="2"/>
+<circle cx="426" cy="112" r="4" fill="#d4c39c"/>
+
+<!-- TITLE -->
+<text x="70" y="190"
+ fill="#f2eee4"
+ font-family="Playfair Display,Georgia,serif"
+ font-size="58"
+ font-weight="600">
+<tspan x="70" dy="0">A escala do turismo</tspan>
+<tspan x="70" dy="68">outbound chinês</tspan>
+</text>
+
+<!-- SUBTITLE -->
+<text x="70" y="350"
+ fill="#a8b0a1"
+ font-family="DM Sans,Arial,sans-serif"
+ font-size="25">
+<tspan x="70" dy="0">As viagens internacionais dos residentes</tspan>
+<tspan x="70" dy="36">da China continental voltaram à escala global.</tspan>
+</text>
+
+<!-- MAIN NUMBER -->
+<text x="70" y="600"
+ fill="#f2eee4"
+ font-family="Playfair Display,Georgia,serif"
+ font-size="155"
+ font-weight="600">
+148.36M
+</text>
+
+<text x="76" y="660"
+ fill="#d4c39c"
+ font-family="DM Sans,Arial,sans-serif"
+ font-size="27"
+ font-weight="600"
+ letter-spacing="1.4">
+VIAGENS OUTBOUND · 2025
+</text>
+
+<text x="76" y="705"
+ fill="#a8b0a1"
+ font-family="DM Sans,Arial,sans-serif"
+ font-size="24">
++20,8% sobre 2024
+</text>
+
+<!-- DIVIDER -->
+<line x1="70" y1="785" x2="930" y2="785"
+ stroke="#5f695d"/>
+
+<!-- SECOND NUMBER -->
+<text x="70" y="925"
+ fill="#f2eee4"
+ font-family="Playfair Display,Georgia,serif"
+ font-size="105"
+ font-weight="600">
+88.02M
+</text>
+
+<text x="75" y="985"
+ fill="#d4c39c"
+ font-family="DM Sans,Arial,sans-serif"
+ font-size="25"
+ font-weight="600"
+ letter-spacing="1.2">
+1º SEMESTRE DE 2026
+</text>
+
+<text x="75" y="1030"
+ fill="#a8b0a1"
+ font-family="DM Sans,Arial,sans-serif"
+ font-size="23">
++10,5% a/a
+</text>
+
+<!-- SOURCE -->
+<line x1="70" y1="1090" x2="930" y2="1090"
+ stroke="#5f695d" opacity=".65"/>
+
+<text x="70" y="1140"
+ fill="#a8b0a1"
+ font-family="DM Sans,Arial,sans-serif"
+ font-size="17">
+<tspan x="70" dy="0">Fonte: Ministério da Cultura e Turismo da RPC (2025);</tspan>
+<tspan x="70" dy="27">ITB China / National Immigration Administration (1S 2026).</tspan>
+</text>
+
+<text x="930" y="1210"
+ fill="#d4c39c"
+ text-anchor="end"
+ font-family="DM Sans,Arial,sans-serif"
+ font-size="17"
+ letter-spacing="2">
+LIPE TRAVEL HUB
+</text>
+
+</svg>

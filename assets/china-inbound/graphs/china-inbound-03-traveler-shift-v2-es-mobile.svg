@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1250" viewBox="0 0 1000 1250">
+<rect width="1000" height="1250" fill="#1a241a"/>
+
+<text x="70" y="68" fill="#d4c39c" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="22" letter-spacing="3">ESSENTIAL INTELLIGENCE · CHINA</text>
+<line x1="70" y1="100" x2="410" y2="100" stroke="#d4c39c" stroke-width="2"/>
+<circle cx="426" cy="100" r="4" fill="#d4c39c"/>
+
+<text x="70" y="170" fill="#f2eee4" font-family="Playfair Display,Georgia,Noto Serif CJK SC,serif" font-size="54" font-weight="600"><tspan x="70" dy="0">El viajero chino ha cambiado</tspan></text>
+<text x="70" y="235" fill="#a8b0a1" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="18"><tspan x="70" dy="0">La oportunidad no viene solo de más viajes. Viene de una nueva composición del</tspan><tspan x="70" dy="27">mercado: intereses, autonomía, segmentación y tecnología.</tspan></text>
+
+<circle cx="145" cy="330" r="49" fill="none" stroke="#f2eee4" opacity=".55"/>
+<text x="145" y="340" fill="#f2eee4" text-anchor="middle" font-family="Playfair Display,Georgia,serif" font-size="28" font-weight="600">2017</text>
+
+<line x1="205" y1="330" x2="795" y2="330" stroke="#5f695d" stroke-width="2"/>
+<polygon points="790,323 807,330 790,337" fill="#d4c39c"/>
+
+<circle cx="860" cy="330" r="49" fill="none" stroke="#d4c39c"/>
+<text x="860" y="340" fill="#d4c39c" text-anchor="middle" font-family="Playfair Display,Georgia,serif" font-size="28" font-weight="600">2026</text>
+
+
+<rect x="70" y="415" width="860" height="100" fill="#263126"/>
+<text x="100" y="454" fill="#f2eee4" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="20" font-weight="600">DESTINO</text>
+<text x="100" y="485" fill="#d4c39c" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="19" font-weight="600"><tspan x="100" dy="0">→ INTERÉS</tspan></text>
+
+<rect x="70" y="530" width="860" height="100" fill="#263126"/>
+<text x="100" y="569" fill="#f2eee4" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="20" font-weight="600">GRANDES GRUPOS</text>
+<text x="100" y="600" fill="#d4c39c" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="19" font-weight="600"><tspan x="100" dy="0">→ VIAJE INDEPENDIENTE + GRUPOS MÁS PEQUEÑOS</tspan></text>
+
+<rect x="70" y="645" width="860" height="100" fill="#263126"/>
+<text x="100" y="684" fill="#f2eee4" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="20" font-weight="600">PRODUCTO ESTANDARIZADO</text>
+<text x="100" y="715" fill="#d4c39c" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="19" font-weight="600"><tspan x="100" dy="0">→ VIAJES PERSONALIZADOS</tspan></text>
+
+<rect x="70" y="760" width="860" height="100" fill="#263126"/>
+<text x="100" y="799" fill="#f2eee4" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="20" font-weight="600">RESERVA DIGITAL</text>
+<text x="100" y="830" fill="#d4c39c" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="19" font-weight="600"><tspan x="100" dy="0">→ INSPIRACIÓN + COMPARACIÓN + IA + RESERVA</tspan></text>
+
+<rect x="70" y="875" width="860" height="100" fill="#263126"/>
+<text x="100" y="914" fill="#f2eee4" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="20" font-weight="600">SEGMENTACIÓN AMPLIA</text>
+<text x="100" y="945" fill="#d4c39c" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="19" font-weight="600"><tspan x="100" dy="0">→ GEN Z · FAMILIAS · 50+ · PREMIUM · AVENTURA · CULTURA</tspan></text>
+
+
+<text x="70" y="1025" fill="#d4c39c" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="18" font-weight="600">INTERESES QUE GANAN ESPACIO</text>
+<text x="70" y="1064" fill="#f2eee4" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="17"><tspan x="70" dy="0">CULTURA · GASTRONOMÍA · NATURALEZA &amp; OUTDOOR · DEPORTES · WELLNESS ·</tspan><tspan x="70" dy="27">TURISMO INDUSTRIAL</tspan></text>
+
+<text x="70" y="1150" fill="#a8b0a1" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="13"><tspan x="70" dy="0">Fuentes: ITB China; China Tourism Academy; World Tourism Alliance; Mastercard; Trip.com Group; Fliggy.</tspan></text>
+<text x="930" y="1210" fill="#d4c39c" text-anchor="end" font-family="DM Sans,Arial,sans-serif" font-size="17" letter-spacing="2">LIPE TRAVEL HUB</text>
+</svg>

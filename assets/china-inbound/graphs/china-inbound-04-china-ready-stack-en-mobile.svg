@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1250" viewBox="0 0 1000 1250">
+<rect width="1000" height="1250" fill="#1a241a"/>
+
+<text x="70" y="68" fill="#d4c39c" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="21" letter-spacing="2.5">THE LIPE TRAVEL HUB FRAMEWORK</text>
+<line x1="70" y1="100" x2="410" y2="100" stroke="#d4c39c" stroke-width="2"/>
+<circle cx="426" cy="100" r="4" fill="#d4c39c"/>
+
+<text x="70" y="175" fill="#f2eee4" font-family="Playfair Display,Georgia,Noto Serif CJK SC,serif" font-size="55" font-weight="600"><tspan x="70" dy="0">The China-Ready Stack</tspan></text>
+<text x="70" y="240" fill="#a8b0a1" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="18"><tspan x="70" dy="0">From discovery to advocacy: five connected layers required to convert demand</tspan><tspan x="70" dy="27">into durable inbound value.</tspan></text>
+
+
+<circle cx="125" cy="365" r="54" fill="#263126" stroke="#d4c39c"/>
+<text x="125" y="375" fill="#d4c39c" text-anchor="middle" font-family="Playfair Display,Georgia,serif" font-size="34" font-weight="600">01</text>
+
+<text x="210" y="351" fill="#f2eee4" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="21" font-weight="600">DISCOVERABILITY</text>
+<text x="210" y="385" fill="#a8b0a1" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="17"><tspan x="210" dy="0">Can they find Brazil?</tspan></text>
+<line x1="125" y1="420" x2="125" y2="455" stroke="#d4c39c" opacity=".5"/>
+<circle cx="125" cy="515" r="54" fill="#263126" stroke="#d4c39c"/>
+<text x="125" y="525" fill="#d4c39c" text-anchor="middle" font-family="Playfair Display,Georgia,serif" font-size="34" font-weight="600">02</text>
+
+<text x="210" y="501" fill="#f2eee4" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="21" font-weight="600">BOOKABILITY</text>
+<text x="210" y="535" fill="#a8b0a1" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="17"><tspan x="210" dy="0">Can they buy Brazil?</tspan></text>
+<line x1="125" y1="570" x2="125" y2="605" stroke="#d4c39c" opacity=".5"/>
+<circle cx="125" cy="665" r="54" fill="#263126" stroke="#d4c39c"/>
+<text x="125" y="675" fill="#d4c39c" text-anchor="middle" font-family="Playfair Display,Georgia,serif" font-size="34" font-weight="600">03</text>
+
+<text x="210" y="651" fill="#f2eee4" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="21" font-weight="600">ACCESSIBILITY</text>
+<text x="210" y="685" fill="#a8b0a1" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="17"><tspan x="210" dy="0">Can they reach Brazil easily enough?</tspan></text>
+<line x1="125" y1="720" x2="125" y2="755" stroke="#d4c39c" opacity=".5"/>
+<circle cx="125" cy="815" r="54" fill="#263126" stroke="#d4c39c"/>
+<text x="125" y="825" fill="#d4c39c" text-anchor="middle" font-family="Playfair Display,Georgia,serif" font-size="34" font-weight="600">04</text>
+
+<text x="210" y="801" fill="#f2eee4" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="21" font-weight="600">RECEIVABILITY</text>
+<text x="210" y="835" fill="#a8b0a1" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="17"><tspan x="210" dy="0">Does Brazil work once they arrive?</tspan></text>
+<line x1="125" y1="870" x2="125" y2="905" stroke="#d4c39c" opacity=".5"/>
+<circle cx="125" cy="965" r="54" fill="#263126" stroke="#d4c39c"/>
+<text x="125" y="975" fill="#d4c39c" text-anchor="middle" font-family="Playfair Display,Georgia,serif" font-size="34" font-weight="600">05</text>
+
+<text x="210" y="951" fill="#f2eee4" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="21" font-weight="600">ADVOCACY</text>
+<text x="210" y="985" fill="#a8b0a1" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="17"><tspan x="210" dy="0">Will Brazil travel back to China with them?</tspan></text>
+
+
+<line x1="70" y1="1065" x2="930" y2="1065" stroke="#5f695d"/>
+<text x="70" y="1110" fill="#d4c39c" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="16" font-weight="600">CORE PRINCIPLE</text>
+<text x="70" y="1150" fill="#f2eee4" font-family="Playfair Display,Georgia,Noto Serif CJK SC,serif" font-size="18"><tspan x="70" dy="0">Demand is only valuable when the whole journey can convert it.</tspan></text>
+
+<text x="930" y="1210" fill="#d4c39c" text-anchor="end" font-family="DM Sans,Arial,sans-serif" font-size="17" letter-spacing="2">LIPE TRAVEL HUB</text>
+</svg>

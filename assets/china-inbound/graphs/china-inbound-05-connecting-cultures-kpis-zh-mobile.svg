@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1250" viewBox="0 0 1000 1250">
+<rect width="1000" height="1250" fill="#1a241a"/>
+
+<text x="70" y="68" fill="#d4c39c" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="21" letter-spacing="2.6">实地案例 · 巴西–中国</text>
+<line x1="70" y1="100" x2="410" y2="100" stroke="#d4c39c" stroke-width="2"/>
+<circle cx="426" cy="100" r="4" fill="#d4c39c"/>
+
+<text x="70" y="170" fill="#f2eee4" font-family="Playfair Display,Georgia,Noto Serif CJK SC,serif" font-size="49" font-weight="600"><tspan x="70" dy="0">Connecting Cultures：巴西–中国的市场实践</tspan></text>
+<text x="70" y="325" fill="#a8b0a1" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="18"><tspan x="70" dy="0">一个连接创作者、媒体、目的地与巴西旅游体验，并触达中国受众的市场激活案例。</tspan></text>
+
+<line x1="70" y1="385" x2="930" y2="385" stroke="#5f695d"/>
+
+
+<rect x="70" y="430" width="405" height="145" rx="3" fill="#263126"/>
+<text x="100" y="500" fill="#d4c39c" font-family="Playfair Display,Georgia,serif" font-size="53" font-weight="600">12.2M</text>
+<text x="100" y="540" fill="#a8b0a1" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="16"><tspan x="100" dy="0">创作者内容观看量</tspan></text>
+
+<rect x="525" y="430" width="405" height="145" rx="3" fill="#263126"/>
+<text x="555" y="500" fill="#d4c39c" font-family="Playfair Display,Georgia,serif" font-size="53" font-weight="600">3.1M</text>
+<text x="555" y="540" fill="#a8b0a1" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="16"><tspan x="555" dy="0">媒体及记者内容观看量</tspan></text>
+
+<rect x="70" y="605" width="405" height="145" rx="3" fill="#263126"/>
+<text x="100" y="675" fill="#d4c39c" font-family="Playfair Display,Georgia,serif" font-size="53" font-weight="600">15.351M</text>
+<text x="100" y="715" fill="#a8b0a1" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="16"><tspan x="100" dy="0">官方汇总观看量</tspan></text>
+
+<rect x="525" y="605" width="405" height="145" rx="3" fill="#263126"/>
+<text x="555" y="675" fill="#d4c39c" font-family="Playfair Display,Georgia,serif" font-size="53" font-weight="600">≈16M</text>
+<text x="555" y="715" fill="#a8b0a1" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="16"><tspan x="555" dy="0">保守估算最终触达</tspan></text>
+
+<rect x="70" y="780" width="405" height="130" rx="3" fill="#263126"/>
+<text x="100" y="850" fill="#d4c39c" font-family="Playfair Display,Georgia,serif" font-size="53" font-weight="600">40+</text>
+<text x="100" y="890" fill="#a8b0a1" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="16"><tspan x="100" dy="0">已发布内容</tspan></text>
+
+<rect x="525" y="780" width="405" height="130" rx="3" fill="#263126"/>
+<text x="555" y="850" fill="#d4c39c" font-family="Playfair Display,Georgia,serif" font-size="53" font-weight="600">4 + 3</text>
+<text x="555" y="890" fill="#a8b0a1" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="16"><tspan x="555" dy="0">创作者 + 记者</tspan></text>
+
+
+<text x="70" y="966" fill="#d4c39c" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="18" font-weight="600">叙事主题</text>
+<text x="70" y="1005" fill="#f2eee4" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="16"><tspan x="70" dy="0">自然与生物多样性 · 工程与科学 · 标志性里约 · 巴西文化 · 日常生活与生活方式</tspan></text>
+
+<line x1="70" y1="1110" x2="930" y2="1110" stroke="#5f695d"/>
+
+<text x="70" y="1145" fill="#f2eee4" font-family="Playfair Display,Georgia,Noto Serif CJK SC,serif" font-size="17"><tspan x="70" dy="0">以实地成果为证：内容、分发与体验作为一个完整系统协同运作。</tspan></text>
+<text x="70" y="1190" fill="#a8b0a1" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="12"><tspan x="70" dy="0">来源：Connecting Cultures · 巴西–中国项目汇总报告，2025。</tspan></text>
+
+<text x="930" y="1218" fill="#d4c39c" text-anchor="end" font-family="DM Sans,Arial,sans-serif" font-size="16" letter-spacing="2">LIPE TRAVEL HUB</text>
+</svg>

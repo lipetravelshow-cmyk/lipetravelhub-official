@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1250" viewBox="0 0 1000 1250">
+<rect width="1000" height="1250" fill="#1a241a"/>
+
+<text x="70" y="72" fill="#d4c39c" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="23" letter-spacing="3">核心旅游洞察 · 中国</text>
+<line x1="70" y1="105" x2="410" y2="105" stroke="#d4c39c" stroke-width="2"/>
+<circle cx="426" cy="105" r="4" fill="#d4c39c"/>
+
+<text x="70" y="177" fill="#f2eee4" font-family="Playfair Display,Georgia,Noto Serif CJK SC,serif" font-size="53" font-weight="600"><tspan x="70" dy="0">巴西正在扩大对中国客源的承接</tspan></text>
+<text x="70" y="330" fill="#a8b0a1" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="21"><tspan x="70" dy="0">中国游客赴巴西增长加速——完整年度与同期数据分开呈现。</tspan></text>
+
+<text x="70" y="430" fill="#d4c39c" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="18" font-weight="600" letter-spacing="1.6">完整年度</text>
+<text x="70" y="473" fill="#f2eee4" font-family="Playfair Display,Georgia,Noto Serif CJK SC,serif" font-size="30">中国游客赴巴西人数</text>
+
+<rect x="75" y="548" width="360" height="118" rx="3" fill="#263126"/>
+<text x="105" y="610" fill="#f2eee4" font-family="Playfair Display,Georgia,serif" font-size="58" font-weight="600">76.5K</text>
+<text x="105" y="646" fill="#a8b0a1" font-family="DM Sans,Arial,sans-serif" font-size="20" font-weight="600">2024</text>
+
+<rect x="465" y="520" width="460" height="146" rx="3" fill="#31392d"/>
+<text x="500" y="600" fill="#d4c39c" font-family="Playfair Display,Georgia,serif" font-size="64" font-weight="600">103,122</text>
+<text x="500" y="642" fill="#a8b0a1" font-family="DM Sans,Arial,sans-serif" font-size="20" font-weight="600">2025</text>
+
+<line x1="70" y1="720" x2="930" y2="720" stroke="#5f695d"/>
+
+<text x="70" y="772" fill="#d4c39c" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="17" font-weight="600">同期比较 · 1月至7月</text>
+
+<text x="75" y="865" fill="#f2eee4" font-family="Playfair Display,Georgia,serif" font-size="54" font-weight="600">54,781</text>
+<text x="75" y="902" fill="#a8b0a1" font-family="DM Sans,Arial,sans-serif" font-size="18" font-weight="600">2025年1–7月</text>
+
+<text x="470" y="865" fill="#d4c39c" font-family="Playfair Display,Georgia,serif" font-size="60" font-weight="600">90,111</text>
+<text x="470" y="902" fill="#a8b0a1" font-family="DM Sans,Arial,sans-serif" font-size="18" font-weight="600">2026年1–7月</text>
+
+<circle cx="830" cy="855" r="82" fill="none" stroke="#d4c39c" stroke-width="2"/>
+<text x="830" y="850" fill="#d4c39c" text-anchor="middle" font-family="Playfair Display,Georgia,serif" font-size="39" font-weight="600">+64.5%</text>
+<text x="830" y="883" fill="#a8b0a1" text-anchor="middle" font-family="DM Sans,Arial,sans-serif" font-size="16" font-weight="600">同比</text>
+
+<rect x="70" y="980" width="860" height="100" rx="3" fill="#263126"/>
+<text x="95" y="1015" fill="#d4c39c" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="16" font-weight="600">方法说明</text>
+<text x="95" y="1050" fill="#a8b0a1" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="16"><tspan x="95" dy="0">2026年仅与2025年1月至7月同期比较，不作为第三个完整年度展示。</tspan></text>
+
+<text x="70" y="1140" fill="#a8b0a1" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="14"><tspan x="70" dy="0">来源：巴西旅游推广局 Embratur，2024、2025及2026年1月至7月数据。</tspan></text>
+<text x="930" y="1205" fill="#d4c39c" text-anchor="end" font-family="DM Sans,Arial,sans-serif" font-size="17" letter-spacing="2">LIPE TRAVEL HUB</text>
+</svg>

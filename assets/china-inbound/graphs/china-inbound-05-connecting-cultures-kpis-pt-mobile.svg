@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1250" viewBox="0 0 1000 1250">
+<rect width="1000" height="1250" fill="#1a241a"/>
+
+<text x="70" y="68" fill="#d4c39c" font-family="DM Sans,Arial,sans-serif" font-size="22" letter-spacing="3">FIELD CASE · BRASIL–CHINA</text>
+<line x1="70" y1="100" x2="410" y2="100" stroke="#d4c39c" stroke-width="2"/>
+<circle cx="426" cy="100" r="4" fill="#d4c39c"/>
+
+<text x="70" y="170" fill="#f2eee4" font-family="Playfair Display,Georgia,serif" font-size="53" font-weight="600">
+<tspan x="70">Connecting Cultures:</tspan>
+<tspan x="70" dy="61">Brasil–China na prática</tspan>
+</text>
+
+<text x="70" y="322" fill="#a8b0a1" font-family="DM Sans,Arial,sans-serif" font-size="20">
+<tspan x="70">Creators, mídia, destinos e experiências brasileiras</tspan>
+<tspan x="70" dy="30">conectados a audiências chinesas.</tspan>
+</text>
+
+<line x1="70" y1="385" x2="930" y2="385" stroke="#5f695d"/>
+
+<!-- KPI GRID -->
+<g font-family="DM Sans,Arial,sans-serif">
+<rect x="70" y="430" width="405" height="145" rx="3" fill="#263126"/>
+<text x="100" y="500" fill="#d4c39c" font-family="Playfair Display,Georgia,serif" font-size="56" font-weight="600">12,2M</text>
+<text x="100" y="540" fill="#a8b0a1" font-size="18">views de creators</text>
+
+<rect x="525" y="430" width="405" height="145" rx="3" fill="#263126"/>
+<text x="555" y="500" fill="#d4c39c" font-family="Playfair Display,Georgia,serif" font-size="56" font-weight="600">3,1M</text>
+<text x="555" y="540" fill="#a8b0a1" font-size="18">mídia + jornalistas</text>
+
+<rect x="70" y="605" width="405" height="145" rx="3" fill="#263126"/>
+<text x="100" y="675" fill="#d4c39c" font-family="Playfair Display,Georgia,serif" font-size="49" font-weight="600">15,351M</text>
+<text x="100" y="715" fill="#a8b0a1" font-size="17">views oficialmente consolidados</text>
+
+<rect x="525" y="605" width="405" height="145" rx="3" fill="#263126"/>
+<text x="555" y="675" fill="#d4c39c" font-family="Playfair Display,Georgia,serif" font-size="56" font-weight="600">≈16M</text>
+<text x="555" y="715" fill="#a8b0a1" font-size="18">alcance final conservador</text>
+
+<rect x="70" y="780" width="405" height="130" rx="3" fill="#263126"/>
+<text x="100" y="845" fill="#d4c39c" font-family="Playfair Display,Georgia,serif" font-size="56" font-weight="600">40+</text>
+<text x="100" y="882" fill="#a8b0a1" font-size="18">conteúdos publicados</text>
+
+<rect x="525" y="780" width="405" height="130" rx="3" fill="#263126"/>
+<text x="555" y="845" fill="#d4c39c" font-family="Playfair Display,Georgia,serif" font-size="56" font-weight="600">4 + 3</text>
+<text x="555" y="882" fill="#a8b0a1" font-size="18">creators + jornalistas</text>
+</g>
+
+<text x="70" y="966" fill="#d4c39c" font-family="DM Sans,Arial,sans-serif" font-size="18" font-weight="600" letter-spacing="1.5">TERRITÓRIOS NARRATIVOS</text>
+
+<text x="70" y="1005" fill="#f2eee4" font-family="DM Sans,Arial,sans-serif" font-size="18">
+NATUREZA &amp; BIODIVERSIDADE · ENGENHARIA &amp; CIÊNCIA
+</text>
+<text x="70" y="1035" fill="#f2eee4" font-family="DM Sans,Arial,sans-serif" font-size="18">
+RIO ICÔNICO · CULTURA BRASILEIRA
+</text>
+<text x="70" y="1065" fill="#f2eee4" font-family="DM Sans,Arial,sans-serif" font-size="18">
+VIDA COTIDIANA &amp; LIFESTYLE
+</text>
+
+<line x1="70" y1="1110" x2="930" y2="1110" stroke="#5f695d"/>
+
+<text x="70" y="1150" fill="#f2eee4" font-family="Playfair Display,Georgia,serif" font-size="22">
+Field proof, não promessa: conteúdo, distribuição e experiência como um sistema.
+</text>
+
+<text x="70" y="1190" fill="#a8b0a1" font-family="DM Sans,Arial,sans-serif" font-size="15">
+Fonte: relatórios consolidados do Connecting Cultures · Brasil–China, 2025.
+</text>
+
+<text x="930" y="1215" fill="#d4c39c" text-anchor="end" font-family="DM Sans,Arial,sans-serif" font-size="16" letter-spacing="2">LIPE TRAVEL HUB</text>
+</svg>

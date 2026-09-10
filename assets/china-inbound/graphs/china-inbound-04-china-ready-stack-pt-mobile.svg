@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1250" viewBox="0 0 1000 1250">
+<rect width="1000" height="1250" fill="#1a241a"/>
+
+<text x="70" y="68" fill="#d4c39c" font-family="DM Sans,Arial,sans-serif" font-size="22" letter-spacing="3">FRAMEWORK LIPE TRAVEL HUB</text>
+<line x1="70" y1="100" x2="410" y2="100" stroke="#d4c39c" stroke-width="2"/>
+<circle cx="426" cy="100" r="4" fill="#d4c39c"/>
+
+<text x="70" y="175" fill="#f2eee4" font-family="Playfair Display,Georgia,serif" font-size="61" font-weight="600">The China-Ready Stack</text>
+
+<text x="70" y="230" fill="#a8b0a1" font-family="DM Sans,Arial,sans-serif" font-size="21">
+<tspan x="70">Da descoberta à recomendação: cinco camadas conectadas</tspan>
+<tspan x="70" dy="31">para converter demanda em valor inbound duradouro.</tspan>
+</text>
+
+<!-- 01 -->
+<circle cx="125" cy="365" r="54" fill="#263126" stroke="#d4c39c"/>
+<text x="125" y="375" fill="#d4c39c" text-anchor="middle" font-family="Playfair Display,Georgia,serif" font-size="34" font-weight="600">01</text>
+<text x="210" y="350" fill="#f2eee4" font-family="DM Sans,Arial,sans-serif" font-size="23" font-weight="600">DESCOBERTA</text>
+<text x="210" y="385" fill="#a8b0a1" font-family="DM Sans,Arial,sans-serif" font-size="20">Eles conseguem encontrar o Brasil?</text>
+
+<line x1="125" y1="420" x2="125" y2="455" stroke="#d4c39c" opacity=".5"/>
+
+<!-- 02 -->
+<circle cx="125" cy="515" r="54" fill="#263126" stroke="#d4c39c"/>
+<text x="125" y="525" fill="#d4c39c" text-anchor="middle" font-family="Playfair Display,Georgia,serif" font-size="34" font-weight="600">02</text>
+<text x="210" y="500" fill="#f2eee4" font-family="DM Sans,Arial,sans-serif" font-size="23" font-weight="600">COMPRABILIDADE</text>
+<text x="210" y="535" fill="#a8b0a1" font-family="DM Sans,Arial,sans-serif" font-size="20">Eles conseguem comprar o Brasil?</text>
+
+<line x1="125" y1="570" x2="125" y2="605" stroke="#d4c39c" opacity=".5"/>
+
+<!-- 03 -->
+<circle cx="125" cy="665" r="54" fill="#263126" stroke="#d4c39c"/>
+<text x="125" y="675" fill="#d4c39c" text-anchor="middle" font-family="Playfair Display,Georgia,serif" font-size="34" font-weight="600">03</text>
+<text x="210" y="650" fill="#f2eee4" font-family="DM Sans,Arial,sans-serif" font-size="23" font-weight="600">ACESSIBILIDADE</text>
+<text x="210" y="685" fill="#a8b0a1" font-family="DM Sans,Arial,sans-serif" font-size="20">Eles conseguem chegar ao Brasil com facilidade?</text>
+
+<line x1="125" y1="720" x2="125" y2="755" stroke="#d4c39c" opacity=".5"/>
+
+<!-- 04 -->
+<circle cx="125" cy="815" r="54" fill="#263126" stroke="#d4c39c"/>
+<text x="125" y="825" fill="#d4c39c" text-anchor="middle" font-family="Playfair Display,Georgia,serif" font-size="34" font-weight="600">04</text>
+<text x="210" y="800" fill="#f2eee4" font-family="DM Sans,Arial,sans-serif" font-size="23" font-weight="600">RECEPTIVIDADE</text>
+<text x="210" y="835" fill="#a8b0a1" font-family="DM Sans,Arial,sans-serif" font-size="20">A experiência funciona quando chegam?</text>
+
+<line x1="125" y1="870" x2="125" y2="905" stroke="#d4c39c" opacity=".5"/>
+
+<!-- 05 -->
+<circle cx="125" cy="965" r="54" fill="#263126" stroke="#d4c39c"/>
+<text x="125" y="975" fill="#d4c39c" text-anchor="middle" font-family="Playfair Display,Georgia,serif" font-size="34" font-weight="600">05</text>
+<text x="210" y="950" fill="#f2eee4" font-family="DM Sans,Arial,sans-serif" font-size="23" font-weight="600">RECOMENDAÇÃO</text>
+<text x="210" y="985" fill="#a8b0a1" font-family="DM Sans,Arial,sans-serif" font-size="20">O Brasil volta à China com eles?</text>
+
+<line x1="70" y1="1065" x2="930" y2="1065" stroke="#5f695d"/>
+<text x="70" y="1110" fill="#d4c39c" font-family="DM Sans,Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="1.6">PRINCÍPIO CENTRAL</text>
+<text x="70" y="1150" fill="#f2eee4" font-family="Playfair Display,Georgia,serif" font-size="24">Demanda só gera valor quando toda a jornada consegue convertê-la.</text>
+
+<text x="930" y="1210" fill="#d4c39c" text-anchor="end" font-family="DM Sans,Arial,sans-serif" font-size="17" letter-spacing="2">LIPE TRAVEL HUB</text>
+</svg>

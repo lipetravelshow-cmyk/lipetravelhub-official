@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1250" viewBox="0 0 1000 1250">
+<rect width="1000" height="1250" fill="#1a241a"/>
+
+<text x="70" y="68" fill="#d4c39c" font-family="DM Sans,Arial,sans-serif" font-size="22" letter-spacing="3">ESSENTIAL INTELLIGENCE · CHINA</text>
+<line x1="70" y1="100" x2="410" y2="100" stroke="#d4c39c" stroke-width="2"/>
+<circle cx="426" cy="100" r="4" fill="#d4c39c"/>
+
+<text x="70" y="170" fill="#f2eee4" font-family="Playfair Display,Georgia,serif" font-size="58" font-weight="600">O viajante chinês mudou</text>
+
+<text x="70" y="225" fill="#a8b0a1" font-family="DM Sans,Arial,sans-serif" font-size="20">
+<tspan x="70">A oportunidade vem também de uma mudança estrutural:</tspan>
+<tspan x="70" dy="30">interesse, autonomia, segmentação e tecnologia.</tspan>
+</text>
+
+<!-- YEARS -->
+<circle cx="145" cy="330" r="49" fill="none" stroke="#f2eee4" opacity=".55"/>
+<text x="145" y="340" fill="#f2eee4" text-anchor="middle" font-family="Playfair Display,Georgia,serif" font-size="28" font-weight="600">2017</text>
+
+<line x1="205" y1="330" x2="795" y2="330" stroke="#5f695d" stroke-width="2"/>
+<polygon points="790,323 807,330 790,337" fill="#d4c39c"/>
+
+<circle cx="860" cy="330" r="49" fill="none" stroke="#d4c39c"/>
+<text x="860" y="340" fill="#d4c39c" text-anchor="middle" font-family="Playfair Display,Georgia,serif" font-size="28" font-weight="600">2026</text>
+
+<!-- ROWS -->
+<g font-family="DM Sans,Arial,sans-serif">
+<rect x="70" y="415" width="860" height="100" fill="#263126"/>
+<text x="100" y="455" fill="#f2eee4" font-size="21" font-weight="600">DESTINO</text>
+<text x="100" y="487" fill="#d4c39c" font-size="24" font-weight="600">→ INTERESSE</text>
+
+<rect x="70" y="530" width="860" height="100" fill="#263126"/>
+<text x="100" y="570" fill="#f2eee4" font-size="21" font-weight="600">GRANDES GRUPOS</text>
+<text x="100" y="602" fill="#d4c39c" font-size="23" font-weight="600">→ VIAGEM INDEPENDENTE + GRUPOS MENORES</text>
+
+<rect x="70" y="645" width="860" height="100" fill="#263126"/>
+<text x="100" y="685" fill="#f2eee4" font-size="21" font-weight="600">PRODUTO PADRONIZADO</text>
+<text x="100" y="717" fill="#d4c39c" font-size="24" font-weight="600">→ JORNADAS PERSONALIZADAS</text>
+
+<rect x="70" y="760" width="860" height="100" fill="#263126"/>
+<text x="100" y="800" fill="#f2eee4" font-size="21" font-weight="600">RESERVA DIGITAL</text>
+<text x="100" y="832" fill="#d4c39c" font-size="22" font-weight="600">→ INSPIRAÇÃO + COMPARAÇÃO + IA + RESERVA</text>
+
+<rect x="70" y="875" width="860" height="100" fill="#263126"/>
+<text x="100" y="915" fill="#f2eee4" font-size="21" font-weight="600">SEGMENTAÇÃO AMPLA</text>
+<text x="100" y="947" fill="#d4c39c" font-size="20" font-weight="600">→ GEN Z · FAMÍLIAS · 50+ · PREMIUM · AVENTURA · CULTURA</text>
+</g>
+
+<text x="70" y="1025" fill="#d4c39c" font-family="DM Sans,Arial,sans-serif" font-size="18" font-weight="600" letter-spacing="1.5">INTERESSES QUE GANHAM ESPAÇO</text>
+
+<text x="70" y="1064" fill="#f2eee4" font-family="DM Sans,Arial,sans-serif" font-size="19">
+CULTURA · GASTRONOMIA · NATUREZA &amp; OUTDOOR
+</text>
+<text x="70" y="1095" fill="#f2eee4" font-family="DM Sans,Arial,sans-serif" font-size="19">
+ESPORTES · WELLNESS · TURISMO INDUSTRIAL
+</text>
+
+<text x="70" y="1150" fill="#a8b0a1" font-family="DM Sans,Arial,sans-serif" font-size="15">
+Fonte: ITB China; China Tourism Academy; World Tourism Alliance;
+</text>
+<text x="70" y="1174" fill="#a8b0a1" font-family="DM Sans,Arial,sans-serif" font-size="15">
+Mastercard; Trip.com Group; Fliggy.
+</text>
+
+<text x="930" y="1210" fill="#d4c39c" text-anchor="end" font-family="DM Sans,Arial,sans-serif" font-size="17" letter-spacing="2">LIPE TRAVEL HUB</text>
+</svg>

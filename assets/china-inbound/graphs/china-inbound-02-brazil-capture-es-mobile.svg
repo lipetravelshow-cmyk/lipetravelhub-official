@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1250" viewBox="0 0 1000 1250">
+<rect width="1000" height="1250" fill="#1a241a"/>
+
+<text x="70" y="72" fill="#d4c39c" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="23" letter-spacing="3">ESSENTIAL INTELLIGENCE · CHINA</text>
+<line x1="70" y1="105" x2="410" y2="105" stroke="#d4c39c" stroke-width="2"/>
+<circle cx="426" cy="105" r="4" fill="#d4c39c"/>
+
+<text x="70" y="177" fill="#f2eee4" font-family="Playfair Display,Georgia,Noto Serif CJK SC,serif" font-size="53" font-weight="600"><tspan x="70" dy="0">Brasil empieza a capturar más</tspan></text>
+<text x="70" y="330" fill="#a8b0a1" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="21"><tspan x="70" dy="0">Las llegadas desde China se aceleran — años completos y</tspan><tspan x="70" dy="27">comparaciones YTD se mantienen separados.</tspan></text>
+
+<text x="70" y="430" fill="#d4c39c" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="18" font-weight="600" letter-spacing="1.6">AÑOS COMPLETOS</text>
+<text x="70" y="473" fill="#f2eee4" font-family="Playfair Display,Georgia,Noto Serif CJK SC,serif" font-size="30">Llegadas de turistas chinos a Brasil</text>
+
+<rect x="75" y="548" width="360" height="118" rx="3" fill="#263126"/>
+<text x="105" y="610" fill="#f2eee4" font-family="Playfair Display,Georgia,serif" font-size="58" font-weight="600">76.5K</text>
+<text x="105" y="646" fill="#a8b0a1" font-family="DM Sans,Arial,sans-serif" font-size="20" font-weight="600">2024</text>
+
+<rect x="465" y="520" width="460" height="146" rx="3" fill="#31392d"/>
+<text x="500" y="600" fill="#d4c39c" font-family="Playfair Display,Georgia,serif" font-size="64" font-weight="600">103,122</text>
+<text x="500" y="642" fill="#a8b0a1" font-family="DM Sans,Arial,sans-serif" font-size="20" font-weight="600">2025</text>
+
+<line x1="70" y1="720" x2="930" y2="720" stroke="#5f695d"/>
+
+<text x="70" y="772" fill="#d4c39c" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="17" font-weight="600">COMPARACIÓN HOMÓLOGA · Enero–julio</text>
+
+<text x="75" y="865" fill="#f2eee4" font-family="Playfair Display,Georgia,serif" font-size="54" font-weight="600">54,781</text>
+<text x="75" y="902" fill="#a8b0a1" font-family="DM Sans,Arial,sans-serif" font-size="18" font-weight="600">JAN–JUL 2025</text>
+
+<text x="470" y="865" fill="#d4c39c" font-family="Playfair Display,Georgia,serif" font-size="60" font-weight="600">90,111</text>
+<text x="470" y="902" fill="#a8b0a1" font-family="DM Sans,Arial,sans-serif" font-size="18" font-weight="600">JAN–JUL 2026</text>
+
+<circle cx="830" cy="855" r="82" fill="none" stroke="#d4c39c" stroke-width="2"/>
+<text x="830" y="850" fill="#d4c39c" text-anchor="middle" font-family="Playfair Display,Georgia,serif" font-size="39" font-weight="600">+64.5%</text>
+<text x="830" y="883" fill="#a8b0a1" text-anchor="middle" font-family="DM Sans,Arial,sans-serif" font-size="16" font-weight="600">A/A</text>
+
+<rect x="70" y="980" width="860" height="100" rx="3" fill="#263126"/>
+<text x="95" y="1015" fill="#d4c39c" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="16" font-weight="600">METODOLOGÍA</text>
+<text x="95" y="1050" fill="#a8b0a1" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="16"><tspan x="95" dy="0">2026 se compara solo con el mismo período ene–jul de 2025. No se presenta como un tercer año</tspan><tspan x="95" dy="23">completo.</tspan></text>
+
+<text x="70" y="1140" fill="#a8b0a1" font-family="DM Sans,Arial,Noto Sans CJK SC,sans-serif" font-size="14"><tspan x="70" dy="0">Fuente: datos de Embratur para 2024, 2025 y ene–jul de 2026.</tspan></text>
+<text x="930" y="1205" fill="#d4c39c" text-anchor="end" font-family="DM Sans,Arial,sans-serif" font-size="17" letter-spacing="2">LIPE TRAVEL HUB</text>
+</svg>
